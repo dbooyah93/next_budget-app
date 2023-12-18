@@ -19,7 +19,7 @@ export default function RootLayout({
       <head/>
       <body className={inter.className}>
         <nav>
-          <h1>My Navbar</h1>
+          <h1>My Noway</h1>
         </nav>
         {children}
       </body>
